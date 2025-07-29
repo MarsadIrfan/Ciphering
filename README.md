@@ -17,7 +17,6 @@ These projects were created by following and adapting examples from the followin
 
 1. **Cracking Codes with Python: An Introduction to Building and Breaking Ciphers**  
    [Read Online](https://inventwithpython.com/cracking/)  
-   [Source Code on GitHub](https://github.com/asweigart/cracking-codes-python)
 
 All original content, explanations, and example code in these books are copyright © Al Sweigart and used here under their respective licenses for educational and non-commercial purposes.
 
@@ -48,5 +47,5 @@ Unless otherwise specified, all code written by me is released under the [MIT Li
 1. Make sure you have Python 3.10 or above installed.
 2. Clone this repo:
    ```bash
-   git clone https://github.com/yourusername/yourrepo.git
-   cd yourrepo
+   git clone https://github.com/MarsadIrfan/Ciphering.git
+   cd Ciphering
